@@ -1,11 +1,16 @@
 _repo: Why-Crime-Does-Not-Pay_59621
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59621-h/images/cover.jpg
 creator:
   author:
     agent_name: Lyons, Sophie
     gutenberg_agent_id: '50538'
     url: http://www.gutenberg.org/2009/agents/50538
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59621#Why-Crime-Does-Not-Pay
 gutenberg_issued: '2019-05-27'
 gutenberg_type: Text
 identifiers:
